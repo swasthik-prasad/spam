@@ -24,5 +24,3 @@ git push origin feature-branch
 git merge feature-branch
 git pull origin feature-branch
 git push
-
-#4
